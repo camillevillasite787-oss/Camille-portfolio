@@ -31,20 +31,7 @@ This is a personal portfolio website created by Camille Andrea Villasite, a stud
 # Camille-portfolio
 # Reflection
 
-Creating my own portfolio website helped me practice my skills in HTML, CSS, and JavaScript. I was able to show who I am and what I can do, as for that in also leanrned how to used 
+At first,Create an account of GitHub is a bit difficult, also Creating a repositories but I also made a lot of mistakes that I created a lot of repositories and didn't know how to deleted y, but the tutorial in YouTube help me to achieve what I want.
+    Creating my own portfolio website helped me practice my skills in HTML, CSS, and JavaScript. I was able to show who I am and what I can do, I learned a lot like how to design a simple layout, using the CSS to style the section and image on my code, and make smooth scrolling with the JavaScript, then as for my challenges first arranging the about section layout, fixing the navigation var, adding a good design to make my portfolio look better is a bit difficult challenges for me. however exploring and searching helps me to achieve what I want. 
+  this project help me to grow as a student I learned how websites work and gained more confident with my skills. during the operation of coding I learned and experience a lot of difficultness and challenges however the step by step guide you gave me it help to make it more easier, and using the YouTube tutorial also.this experience is memorable because at first I was having a headeache how to overcome with this. but now that I'm done it makes me a happy.
 
-## What I Learned
-
-- How to design a simple website layout
-- Using CSS to style sections and images
-- Making smooth scrolling with JavaScript
-
-## Challenges
-
-- Arranging the About section layout
-- Fixing the navigation bar
-- Adding good design to make the site look better
-
-## My Experience
-
-This project helped me grow as a student. I learned how websites work and gained more confidence in my skills. I look forward to improving this project and adding more features in the future.
